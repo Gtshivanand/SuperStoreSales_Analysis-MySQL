@@ -20,7 +20,7 @@ Profitability
 These insights enable strategic decision-making and support improvements in business operations, marketing strategies, and customer satisfaction.
 
 
- # ** Dataset Overview**:    
+ # **Dataset Overview**:    
  
 The dataset contains sales information for a superstore operating in the United States, covering all its branches across cities and states.
 
