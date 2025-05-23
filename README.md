@@ -1,4 +1,7 @@
 # SuperStoreSales_Analysis-MySQL
+
+<img src="https://github.com/Gtshivanand/SuperStoreSales_Analysis-MySQL/blob/main/SuperStoreSales_Analysis.jpg"/>
+
 # **About** :  
   The objective of this analysis is to provide stakeholders with actionable insights derived from the superstore sales data. By leveraging MySQL, users can perform in-depth analysis to understand various aspects of the business and drive informed decision-making.The datset eas pbtained from Kaggle Superstores sales analysis.
     
